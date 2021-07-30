@@ -1,4 +1,4 @@
-# BleK - Serverless Bluetooth Keyboard & Mouse
+# Serverless Bluetooth Keyboard & Mouse for Android Devices
 Turn your Android device into a Bluetooth Remote Keyboard and Mouse!
 
 ![screenshot 1](https://lh3.googleusercontent.com/pUxM_W-zoH9iBo1shQlFz0T68wZ-9x7SViCvKIZCGh5ECTcsKJg0qLnVfRMk3gxzBOA0VqndRq9LzQngTG8YCw)
@@ -29,16 +29,13 @@ The Receiver Device must have Bluetooth 4.0 and:
 ## Installation
 
 ### On Google Play
-  * [BleK Premium](https://play.google.com/store/apps/details?id=io.appground.blekpremium)
-  * [BleK Free](https://play.google.com/store/apps/details?id=io.appground.blek)
+  * [Premium](https://play.google.com/store/apps/details?id=io.appground.blekpremium)
+  * [Free](https://play.google.com/store/apps/details?id=io.appground.blek)
 
 ## Issues and Feature Requests
 
 ### On GitHub
-  * [Support Forum](https://github.com/AppGround-io/bluetooth-keyboard-and-mouse-support/issues)
-
-### Via Dev's e-mail
-  * [AppGround IO](support@appground.io)
+  * [Support Forum](https://github.com/AppGround-io/bluetooth-keyboard-and-mouse-support/discussions)
 
 ## Screenshots
 
